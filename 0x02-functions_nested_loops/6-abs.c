@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * _abs - returns an absolute value of a number
+ * _abs -> returns an absolute value of a number
  * @n: parameter
- * return: absolute value of a number
+ * Return: absolute value
  */
 int _abs(int n)
 {
